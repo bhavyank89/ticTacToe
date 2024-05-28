@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-Play here - https://bhavyank89.github.io/ticTacToe/
+<a href="https://bhavyank89.github.io/ticTacToe/"><b>Play Here</b></a>
 
 ## Introduction
 
